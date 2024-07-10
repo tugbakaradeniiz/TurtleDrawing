@@ -1,5 +1,5 @@
 import turtle
-
+#square1
 drawing_board=turtle.Screen()
 drawing_board.bgcolor("#C133FF")
 drawing_board.title("Python Turtle")
@@ -16,7 +16,7 @@ turtle_instance2.forward(100)
 turtle.done()
 
 '''
-#square
+#square2
 turtle_instance=turtle.Turtle()
 
 for i in range (4):
